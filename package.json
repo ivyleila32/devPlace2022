@@ -25,6 +25,7 @@
   "dependencies": {
     "generate-password": "^1.7.0",
     "readline-sync": "^1.4.10",
+    "sqlite": "^4.0.25",
     "sqlite3": "^5.0.2"
   }
 }
