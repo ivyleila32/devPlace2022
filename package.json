@@ -1,0 +1,28 @@
+{
+  "name": "devplace2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivyleila32/devPlace2022.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "devplace",
+    "bootcamp"
+  ],
+  "author": "Ivana Leila Di Biase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivyleila32/devPlace2022/issues"
+  },
+  "homepage": "https://github.com/ivyleila32/devPlace2022#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
