@@ -24,6 +24,7 @@
   "homepage": "https://github.com/ivyleila32/devPlace2022#readme",
   "dependencies": {
     "generate-password": "^1.7.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "sqlite3": "^5.0.2"
   }
 }
